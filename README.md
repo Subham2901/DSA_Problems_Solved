@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
