@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 ## Binary Search
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
