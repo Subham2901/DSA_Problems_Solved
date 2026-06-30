@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
