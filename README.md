@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
