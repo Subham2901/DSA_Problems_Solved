@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Math
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
