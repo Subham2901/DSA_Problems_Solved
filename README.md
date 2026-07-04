@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -97,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
