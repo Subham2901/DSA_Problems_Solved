@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
