@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
