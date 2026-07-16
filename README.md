@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -141,16 +144,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
