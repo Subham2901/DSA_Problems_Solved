@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0414-third-maximum-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
