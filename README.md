@@ -189,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
