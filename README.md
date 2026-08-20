@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Subham2901/DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
